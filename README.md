@@ -6,8 +6,8 @@ I am seeking opportunities for full stack, Javascript, React, and UI Design posi
 Or, we can talk about something else. Tell me about yourself and where you've been. Let's chat! 
 
 ## Where can you find my work
-   - <a href='github.com/seth-nelson'>GitHub</a>
-   - <a href='seth-n.com'></a>
+   - <a href='https://github.com/seth-nelson'>GitHub</a>
+   - <a href='https://seth-n.com'>seth-n.com</a>
 
 ## How to reach me
    - seth.nelson@outlook.com
