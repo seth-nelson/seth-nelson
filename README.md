@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Seth 👋
 
-<!--
-**seth-nelson/seth-nelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Seth. I am a Web Developer looking to join your team!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am seeking opportunities for full stack, Javascript, React, and UI Design positions. I would love to hear what you're working on. 
+Or, we can talk about something else. Tell me about yourself and where you've been. Let's chat! 
+
+# Where can you find my work:
+   <ul>
+     <li><a href='github.com/seth-nelson'>GitHub</a></li>
+    <li><a href='www.seth-n.com'></a></li>
+   </ul>
+
+# How to reach me:
+    <ul>
+      <li>seth.nelson@outlook.com</li>
+    </ul>
+
+I look forward to hearing from you!
