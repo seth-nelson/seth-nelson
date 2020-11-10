@@ -8,7 +8,7 @@ Or, we can talk about something else. Tell me about yourself and where you've be
 ## Where can you find my work
    - <a href='https://github.com/seth-nelson'>GitHub</a>
    - <a href='https://seth-n.com'>seth-n.com</a>
-   - ![alt-text](https://seth-n.com'>seth-n.com)
+   - [seth-n.com](https://seth-n.com'>seth-n.com)
 
 ## How to reach me
    - seth.nelson@outlook.com
