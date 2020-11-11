@@ -21,7 +21,7 @@ Or, we can talk about something else. Tell me about yourself and where you've be
 
 ## :email: Reach out to me
    - seth.nelson@outlook.com
-   - @seth-nelson on Linkedin
+   - seth-nelson on Linkedin
 
 
 ### :tada: I look forward to hearing from you! Have a great day!
