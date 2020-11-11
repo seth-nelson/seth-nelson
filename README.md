@@ -16,8 +16,7 @@ Or, we can talk about something else. Tell me about yourself and where you've be
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Terminal-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-## :mag_right: Where can you find my work
-   - <a href='https://github.com/seth-nelson'>GitHub</a>
+## :mag_right: Learn a little about me
    - <a href='https://seth-n.com'>seth-n.com</a>
 
 ## :email: How to reach me
