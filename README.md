@@ -1,4 +1,4 @@
-# Hey, I'm Seth 👋 I am a Web Developer looking to join your team!
+# Hey, I'm Seth 👋 I am a Web Developer looking to join your team! :rocket:
 
 ![Seth's github stats](https://github-readme-stats.vercel.app/api?username=seth-nelson&theme=gotham&show_icons=true) 
 
@@ -6,7 +6,7 @@
 I am seeking opportunities for a full stack or front end development position using Javascript React, and Node. I have a passion for beautiful responsive UI design. I would love to hear what you're working on. 
 Or, we can talk about something else. Tell me about yourself and where you've been. Let's chat! 
 
-## My tools
+## My tools :computer:
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -16,12 +16,12 @@ Or, we can talk about something else. Tell me about yourself and where you've be
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Terminal-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-## Where can you find my work
+## Where can you find my work :mag_right:
    - <a href='https://github.com/seth-nelson'>GitHub</a>
    - <a href='https://seth-n.com'>seth-n.com</a>
 
-## How to reach me
+## How to reach me :email:
    - seth.nelson@outlook.com
 
 
-I look forward to hearing from you! Have a great day.
+I look forward to hearing from you! Have a great day! :tada:
