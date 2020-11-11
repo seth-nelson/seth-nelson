@@ -2,7 +2,7 @@
 
 ![Seth's github stats](https://github-readme-stats.vercel.app/api?username=seth-nelson&theme=gotham&show_icons=true) 
 
-## :mortar_board About me
+## :mortar_board: About me
 I am seeking opportunities for a full stack or front end development position using Javascript React, and Node. I have a passion for beautiful responsive UI design. I would love to hear what you're working on. 
 Or, we can talk about something else. Tell me about yourself and where you've been. Let's chat! 
 
