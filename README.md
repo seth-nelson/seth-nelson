@@ -1,7 +1,7 @@
 # Hey, I'm Seth 👋 I am a Web Developer looking to join your team!
 
 ![Seth's github stats](https://github-readme-stats.vercel.app/api?username=seth-nelson&theme=gotham&show_icons=true) 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seth-nelson)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seth-nelson)](https://github.com/anuraghazra/github-readme-stats)
 
 ![alt text](https://images.unsplash.com/photo-1543332164-6e82f355badc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
 
