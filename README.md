@@ -4,11 +4,18 @@
 
 ![alt text](https://images.unsplash.com/photo-1543332164-6e82f355badc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
 
-## My Tools
-![](https://img.shields.io/badge/<OS>-<Windows>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
+## About me
 I am seeking opportunities for a full stack or front end development position using Javascript React, and Node. I have a passion for beautiful responsive UI design. I would love to hear what you're working on. 
 Or, we can talk about something else. Tell me about yourself and where you've been. Let's chat! 
+
+## My tools
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Terminal-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## Where can you find my work
    - <a href='https://github.com/seth-nelson'>GitHub</a>
