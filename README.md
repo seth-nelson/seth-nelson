@@ -3,6 +3,13 @@
 ![Seth's github stats](https://github-readme-stats.vercel.app/api?username=seth-nelson&theme=gotham&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seth-nelson)](https://github.com/seth-nelson/github-readme-stats)
 
+<a href="https://github.com/seth-nelson/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seth-nelson&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/seth-nelson/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seth-nelson&repo=convoychat" />
+</a>
+
 ![alt text](https://images.unsplash.com/photo-1543332164-6e82f355badc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
 
 I am seeking opportunities for a full stack or front end development position using Javascript React, and Node. I have a passion for beautiful responsive UI design. I would love to hear what you're working on. 
