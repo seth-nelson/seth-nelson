@@ -1,4 +1,4 @@
-# Hey, I'm Seth 👋 I am a Web Developer looking to join your team! :rocket:
+# Hey, I'm Seth 👋 A Web Developer looking to join your team! :rocket:
 
 ![Seth's github stats](https://github-readme-stats.vercel.app/api?username=seth-nelson&theme=gotham&show_icons=true) 
 
