@@ -3,7 +3,7 @@
 ![Seth's github stats](https://github-readme-stats.vercel.app/api?username=seth-nelson&theme=gotham&show_icons=true) 
 
 ## :mortar_board: A little bit about me
-I am seeking opportunities for a full stack or front end development position to help build creative and fun products. I have a passion for beautiful responsive UI design. I would love to hear what you're working on. 
+I am seeking opportunities in front end development or full stack development to help build creative and fun products. I have a passion for beautiful responsive UI design. I would love to hear what you're working on. 
 Or, we can talk about something else. Tell me about yourself and where you've been. Let's chat! 
 
 ## :computer: My preferred tools
@@ -21,8 +21,7 @@ Or, we can talk about something else. Tell me about yourself and where you've be
    - <a href='https://seth-n.com'>seth-n.com</a>
 
 ## :mag_right: Reach out to me
-   - seth.nelson@outlook.com
-   - seth-nelson on Linkedin
+   - seth-n.crx on discord
+   - seth-n on Linkedin
 
-
-### :tada: I look forward to hearing from you! Have a great day!
+### :tada: I look forward to hearing from you! Have a great day.
