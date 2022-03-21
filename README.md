@@ -1,10 +1,9 @@
-# Hi, I'm Seth 👋 A growth oriented software engineer :rocket:
+# Hi, I'm Seth 👋 Software Engineer @ The Architects :rocket:
 
 ![Seth's github stats](https://github-readme-stats.vercel.app/api?username=seth-nelson&theme=gotham&show_icons=true) 
 
 ## :mortar_board: A little bit about me
-I am seeking opportunities in front end development or full stack development to help build creative and fun products. I have a passion for building and creating beautiful responsive UI with plenty of flare and animations. I would love to hear what you're working on. 
-Or, we can talk about something else. Tell me about yourself and where you've been. Let's chat! 
+My newest adventure is joining the amazing team at The Architects. I have a passion for building and creating beautiful responsive UI with plenty of flare and animations. I strive to keep code DRY and reusable, as well as learn new technologies along the way. Tell me about yourself and where you've been. Let's chat! 
 
 ## :computer: My preferred tools
 ![](https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -24,4 +23,4 @@ Or, we can talk about something else. Tell me about yourself and where you've be
 ## :mag_right: Reach out to me
    - seth-nelson on Linkedin
 
-### :tada: I look forward to hearing from you. Have a wonderful day.
+### :tada: Thank you for visiting my page. Have a wonderful day!
