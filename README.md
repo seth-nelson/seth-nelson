@@ -1,6 +1,6 @@
 # Hi, I'm Seth 👋 Software Engineer @ The Architects :rocket:
 
-![Seth's github stats](https://github-readme-stats.vercel.app/api?username=seth-nelson&theme=gotham&show_icons=true) 
+// ![Seth's github stats](https://github-readme-stats.vercel.app/api?username=seth-nelson&theme=gotham&show_icons=true) 
 
 ## :mortar_board: A little bit about me
 My newest adventure is joining an amazing team at The Architects. I have a passion for building beautifully responsive user interfaces. I strive to keep code DRY and reusable, as well as learn new technologies along the way. I'm currently working with Next / Typescript / Firebase. 
