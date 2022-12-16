@@ -1,7 +1,7 @@
 # Hi, I'm Seth 👋 Software Developer @ The Architects :rocket:
 
 ## :mortar_board: A little bit about me
-My newest adventure is being part of an amazing team at The Architects. I have a passion for building fully responsive user interfaces that don't leave users confused. I strive to keep code DRY and reusable, as well as learn new technologies along the way. I'm currently working with React, Typescript, Node, GraphQL / Apollo, and Next.js. 
+I am a member of an amazing team called The Architects. I have a passion for building fully responsive user interfaces that don't leave users confused. I strive to keep code DRY and reusable, as well as learn new technologies along the way. I'm currently working with React, Typescript, Node, GraphQL / Apollo, and Next.js. 
 
 ## :computer: My preferred tools
 ![](https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
