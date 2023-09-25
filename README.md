@@ -1,7 +1,7 @@
-# Hi, I'm Seth 👋
+# Well howdy there, I'm Seth - Purveyor of Fun UI and Enforcer of Auto-Closing Childless Elements! 📐
 
 ## 🔎 
-I am a member of an amazing group of software developers at The Architects. I have a passion for building fully responsive front end user interfaces that don't leave users confused. I strive to keep code DRY and reusable, as well as learn new technologies along the way. I'm currently working with React, Typescript, Node, GraphQL / Apollo, and Next.js. 
+I am a full stack engineer by trade, but front end engineer by passion. I have been consulting for many different projects over the last 3 years. My current tech stack is Next.js + TypeScript with PayloadCMS + MongoDB for an educational LMS marketing site. I am always up for learning something new and staying curious, especially in the security and hardware sector. Shoot me a message if you have a fun project you're working on! 
 
 ## 🧰
 ![](https://img.shields.io/badge/OS-iOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=white)
