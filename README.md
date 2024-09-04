@@ -1,4 +1,4 @@
-# Well howdy there, I'm Seth - Purveyor of Clean Code and Enforcer of Auto-Closing Childless Elements! 📐
+# Go touch some grass fellow devs! 📐
 
 ## 🔎 
 I am a full stack engineer by trade, but front end engineer by passion. I have been consulting for many different projects over the last 3 years including full stack government apps, mobile applications, social accountability applications, commercial widgets, and marketing sites. My current tech stack is React utilizing Gatsby + Graphql running Wordpress CMS. I am always up for learning something new and staying curious, especially in the security and hardware sector. Shoot me a message if you have a fun project you're working on! 
